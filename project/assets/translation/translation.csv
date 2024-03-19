@@ -1,0 +1,12 @@
+key,en,zh
+!intro,Intro,帮助
+!intro1,1.You can drag and drop the UI ratio between the two sides,1.中间可以拖拽调整两边UI占比
+!intro2,2.Use the WASD/up&down&left and right arrow keys to move the block,2.使用WASD/上下左右方向键移动方块
+!intro3,3.Traditional 2048 gameplay,3.传统的2048玩法
+!title,MoYu 2048,MoYu 2048
+!score,Score,得分
+!move_count,Move Count,移动步数
+!setting,Setting,设置
+!quit,Quit,退出
+!language,Language,语言
+!fail_text,Fail! Final Score:%s,失败! 最终得分:%s
